@@ -313,10 +313,8 @@ Axis Mutual Fund,Axis NIFTY India Consumption ETF,Mahindra & Mahindra Limited,Eq
 ## 🤝 Contact & Feedback
 
 For any questions or clarifications:
-
-**Email:** nikhil@qonfido.com  
 **Subject:** Data Analytics Intern Assignment – Pranay
-
+**E-mail:** Pranayjha535@gmail.com
 ---
 
 ## 📝 License & Usage
